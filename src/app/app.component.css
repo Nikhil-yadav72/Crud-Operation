@@ -1,0 +1,19 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+ .mat-dialog-container{
+  width: 50%;
+ }
+ table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+.conatiner{
+  max-width: 1000px;
+  margin: 2 auto;
+}
+
